@@ -39,9 +39,8 @@ box-shadow: 1px 4px 38px 6px rgba(0,0,0,0.75);
 #style_title {
     position: relative;
     float: right;
-    
     margin-top: -41px;
-    margin-right: -20px;
+    margin-right: 0px;
     top: 280px;
     height: 65px;
     width: 600px;
@@ -102,7 +101,6 @@ header p {
 .contacthist {
     background: #e68a00;
     width: 100%;
-    padding-left: 20px;
     -webkit-box-shadow: 4px 7px 34px 2px rgba(0,0,0,0.75);
 -moz-box-shadow: 4px 7px 34px 2px rgba(0,0,0,0.75);
 box-shadow: 4px 7px 34px 2px rgba(0,0,0,0.75);
